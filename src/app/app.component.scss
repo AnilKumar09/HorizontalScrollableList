@@ -1,0 +1,31 @@
+
+.header
+{
+    height: 40px;
+    color: #ffffff !important;
+}
+
+.mainContainer
+{
+    max-width: 650px;
+    margin: 20px auto 0 auto;
+    padding: 30px;
+}
+.form-row
+{
+    padding: 10px 0;
+    display: flex;
+}
+
+.form-row label
+{
+    margin: 0 10px;
+    flex: 1;
+    color: #d8dee9;
+}
+
+.form-row input
+{
+    flex: 6;
+    margin: 0 10px;
+}

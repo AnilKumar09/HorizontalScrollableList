@@ -1,0 +1,24 @@
+@import './variables.scss';
+body, html
+{
+    padding : 0;
+    margin  : 0;
+    background-color: #2e3440;
+}
+
+
+.ui.ui.inverted.teal.menu
+{
+    background-color: $teal;
+    *
+    {
+        color: #3b4252 !important;
+    }
+   
+}
+
+.ui.teal.button
+{
+     background-color: $teal;
+     color: #3b4252 !important;
+}
